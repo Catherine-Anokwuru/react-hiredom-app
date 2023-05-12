@@ -1,8 +1,0 @@
-import { defineConfig } from 'vite'
-import react from '@vitejs/plugin-react'
-
-// https://vitejs.dev/config/
-export default defineConfig({
-  base: "https://catherine-anokwuru.github.io/react-hiredom-app/",
-  plugins: [react()],
-});
